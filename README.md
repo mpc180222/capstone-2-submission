@@ -1,6 +1,6 @@
 **Reviewify - Capstone 2 Project**
 
-This is Reviewify, my capstone 2 for Springboard Software Engineering Career Track. At the moment, there are some issues deploying the app, so I made a video walkthrough of the website, viewable here:
+This is Reviewify, my capstone 2 for Springboard Software Engineering Career Track. At the moment, there are some issues deploying the app, so I made a video walkthrough of the website, viewable here: https://youtu.be/xadJ8vCGuK0
 
 **Overview**
 
